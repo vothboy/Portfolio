@@ -1,0 +1,30 @@
+.boarder-solid {
+  background-color: white;
+  color: black;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-style: solid;
+  border-color: grey;
+  border-width: 3px;
+  justify-content: center;
+  width: 100%;
+}
+.aboutProfilePic {
+  padding: 5px;
+  border-radius: 999em;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+@media only screen and (min-width: 768px) {
+  .boarder-solid {
+    width: 90%;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+.img-boarder-solid {
+  border-style: solid;
+  border-color: grey;
+  border-width: 5px;
+}
