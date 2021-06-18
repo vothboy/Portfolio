@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { toast } from "react-toastify";
 import emailjs from "emailjs-com";
-import axios from "axios";
 import "react-toastify/dist/ReactToastify.css";
 
 // https://www.youtube.com/watch?v=30VeUWxZjS8

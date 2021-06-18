@@ -81,7 +81,11 @@ const AboutPage = () => {
             <p>
               I have a blog where I make it easy to see what I am up to at my
               other website by clicking right{" "}
-              <a href="https://www.nickolusvoth.com" target="_blank">
+              <a
+                href="https://www.nickolusvoth.com"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <strong>here</strong>
               </a>
               .
